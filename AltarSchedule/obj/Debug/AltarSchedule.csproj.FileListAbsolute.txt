@@ -1,0 +1,8 @@
+c:\users\marcx_000\documents\visual studio 2012\Projects\AltarSchedule\AltarSchedule\bin\Debug\AltarSchedule.exe.config
+c:\users\marcx_000\documents\visual studio 2012\Projects\AltarSchedule\AltarSchedule\bin\Debug\AltarSchedule.exe
+c:\users\marcx_000\documents\visual studio 2012\Projects\AltarSchedule\AltarSchedule\bin\Debug\AltarSchedule.pdb
+c:\users\marcx_000\documents\visual studio 2012\Projects\AltarSchedule\AltarSchedule\bin\Debug\ExcelLibrary.dll
+c:\users\marcx_000\documents\visual studio 2012\Projects\AltarSchedule\AltarSchedule\obj\Debug\AltarSchedule.csprojResolveAssemblyReference.cache
+c:\users\marcx_000\documents\visual studio 2012\Projects\AltarSchedule\AltarSchedule\obj\Debug\AltarSchedule.csproj.ResolveComReference.cache
+c:\users\marcx_000\documents\visual studio 2012\Projects\AltarSchedule\AltarSchedule\obj\Debug\AltarSchedule.exe
+c:\users\marcx_000\documents\visual studio 2012\Projects\AltarSchedule\AltarSchedule\obj\Debug\AltarSchedule.pdb
