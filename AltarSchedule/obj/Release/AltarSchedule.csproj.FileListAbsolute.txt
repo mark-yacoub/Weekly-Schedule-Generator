@@ -6,3 +6,7 @@ C:\Users\marcx_000\Documents\Visual Studio 2012\Projects\AltarSchedule\AltarSche
 C:\Users\marcx_000\Documents\Visual Studio 2012\Projects\AltarSchedule\AltarSchedule\obj\Release\AltarSchedule.exe
 C:\Users\marcx_000\Documents\Visual Studio 2012\Projects\AltarSchedule\AltarSchedule\obj\Release\AltarSchedule.pdb
 C:\Users\marcx_000\Documents\Visual Studio 2012\Projects\AltarSchedule\AltarSchedule\obj\Release\AltarSchedule.csprojResolveAssemblyReference.cache
+C:\Users\marcx_000\Documents\GitHub\Weekly-Schedule-Generator\AltarSchedule\bin\Release\AltarSchedule.exe.config
+C:\Users\marcx_000\Documents\GitHub\Weekly-Schedule-Generator\AltarSchedule\obj\Release\AltarSchedule.csproj.ResolveComReference.cache
+C:\Users\marcx_000\Documents\GitHub\Weekly-Schedule-Generator\AltarSchedule\obj\Release\AltarSchedule.exe
+C:\Users\marcx_000\Documents\GitHub\Weekly-Schedule-Generator\AltarSchedule\obj\Release\AltarSchedule.pdb
